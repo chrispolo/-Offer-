@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T06:13:17.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="v4nd0saTLbz3E6YBTsPh" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T06:16:59.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ahOTWUXj9JjJJApAUp9C" version="13.8.8" type="github">
   <diagram id="QlpivooPiczW2APqJMBy" name="Page-1">
-    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,7 +57,7 @@
         <mxCell id="JF8zU6eetf7OwE7bHXdM-18" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;No&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="660" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JF8zU6eetf7OwE7bHXdM-19" value="推送动态" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="JF8zU6eetf7OwE7bHXdM-19" value="推送最近一次动态" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="265" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

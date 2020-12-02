@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T06:59:45.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.2" etag="pg2dL0gbV850rEpcKqg5" type="github"><diagram id="WbyLtJg-H4jcwmG8Qwt9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-02T07:30:25.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="RTU7Juwi4L3jN1bJoJh-" version="13.10.2" type="github">
+  <diagram id="WbyLtJg-H4jcwmG8Qwt9" name="Page-1">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zUZ9NEfKIliYSl2klIuX-2" target="zUZ9NEfKIliYSl2klIuX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="243.5" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-3" value="楼盘动态编辑发布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="246" y="65" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zUZ9NEfKIliYSl2klIuX-5" target="zUZ9NEfKIliYSl2klIuX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.075;entryY=0.139;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zUZ9NEfKIliYSl2klIuX-5" target="zUZ9NEfKIliYSl2klIuX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="127" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-6" value="该动态是否给用户发送过？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="264.75" y="200" width="77.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-8" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="253.5" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-9" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zUZ9NEfKIliYSl2klIuX-10" target="zUZ9NEfKIliYSl2klIuX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zUZ9NEfKIliYSl2klIuX-10" target="zUZ9NEfKIliYSl2klIuX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="127" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-11" value="该动态是否创建时间&amp;gt;15天" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="264.75" y="360" width="77.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="40" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-16" value="不发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-18" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zUZ9NEfKIliYSl2klIuX-19" target="zUZ9NEfKIliYSl2klIuX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-19" value="每个项目每周只能给每个关注的用户推送一次" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="243.5" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zUZ9NEfKIliYSl2klIuX-21" target="zUZ9NEfKIliYSl2klIuX-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-21" value="用户每天最多收到两条，一周最多三条" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="243.5" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zUZ9NEfKIliYSl2klIuX-25" value="多项目动态按照用户的关注时间倒序推送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="243.5" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

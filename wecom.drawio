@@ -1,1 +1,117 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T08:30:25.180Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" version="14.4.2" etag="BVyCEkNtYixbs1bNSrs7" type="github"><diagram id="dd8-HZ_Re7ayPJgVSW-A">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-09T09:49:10.419Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="LJ7LkLKMegVEKMQ0eg5W" version="14.4.2" type="github">
+  <diagram id="dd8-HZ_Re7ayPJgVSW-A" name="Page-1">
+    <mxGraphModel dx="2066" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRl-5sNRhDK3zXcC5VCT-1" target="NRl-5sNRhDK3zXcC5VCT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-1" value="定时任务同步置业顾问信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRl-5sNRhDK3zXcC5VCT-3" target="NRl-5sNRhDK3zXcC5VCT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRl-5sNRhDK3zXcC5VCT-3" target="NRl-5sNRhDK3zXcC5VCT-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="245" />
+              <mxPoint x="280" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-3" value="存在置业顾问" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="200" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRl-5sNRhDK3zXcC5VCT-5" target="NRl-5sNRhDK3zXcC5VCT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-5" value="新增置业顾问企业微信配置表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-7" value="返回配置的企业微信顾问信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-11" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-12" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRl-5sNRhDK3zXcC5VCT-14" target="NRl-5sNRhDK3zXcC5VCT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-14" value="配置企业微信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRl-5sNRhDK3zXcC5VCT-15" target="NRl-5sNRhDK3zXcC5VCT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRl-5sNRhDK3zXcC5VCT-15" target="NRl-5sNRhDK3zXcC5VCT-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-15" value="&lt;br&gt;调用拉风接口判断置业顾问状态是否正常" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="730" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-19" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="840" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-20" value="开启" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="900" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRl-5sNRhDK3zXcC5VCT-21" target="NRl-5sNRhDK3zXcC5VCT-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="760" />
+              <mxPoint x="370" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-21" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-27" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="750" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-28" value="拉风下架或者关闭预警提醒" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="890" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRl-5sNRhDK3zXcC5VCT-29" target="NRl-5sNRhDK3zXcC5VCT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-29" value="运营在企业微信后台配置置业顾问" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRl-5sNRhDK3zXcC5VCT-30" target="NRl-5sNRhDK3zXcC5VCT-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-30" value="通过api给置业顾问创建对应的config_id，并且入库和缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRl-5sNRhDK3zXcC5VCT-32" target="NRl-5sNRhDK3zXcC5VCT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-32" value="给config_id创建缓存，如果缓存不存在查数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRl-5sNRhDK3zXcC5VCT-34" target="NRl-5sNRhDK3zXcC5VCT-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-34" value="返回给置业顾问的列表，判断整个项目中是否存在开通企业微信的置业顾问" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRl-5sNRhDK3zXcC5VCT-36" value="接口返回给前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

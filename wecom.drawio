@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T07:40:01.034Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="Rw9gerbb6i6kZCueCkgR" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T07:40:20.528Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="0Wa6lxgKStQzTWYgEEYz" version="14.4.6" type="github">
   <diagram id="dd8-HZ_Re7ayPJgVSW-A" name="Page-1">
     <mxGraphModel dx="2893" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
           <mxGeometry x="150" y="1210" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NRl-5sNRhDK3zXcC5VCT-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="785" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRl-5sNRhDK3zXcC5VCT-22" target="luivyYWbAEqouzFyZwgo-23">
           <mxGeometry relative="1" as="geometry" />
@@ -131,11 +131,11 @@
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="luivyYWbAEqouzFyZwgo-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="830" as="sourcePoint" />
+            <mxPoint x="730" y="845" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-8" value="企业微信后台配置联系我获取secret" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="467.5" y="775" width="105" height="50" as="geometry" />
+          <mxGeometry x="677.5" y="790" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-9" value="开启失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="1190" width="120" height="60" as="geometry" />
@@ -219,50 +219,44 @@
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="luivyYWbAEqouzFyZwgo-40" target="luivyYWbAEqouzFyZwgo-43">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="980" as="targetPoint" />
+            <mxPoint x="730" y="995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="905" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-42" value="通过配置的secret获取accesstoken" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="472.5" y="900" width="100" height="40" as="geometry" />
+          <mxGeometry x="682.5" y="915" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="1015" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-44" value="调用企业微信api,获取configid和qrcode入缓存和入库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1010" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="luivyYWbAEqouzFyZwgo-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="452.5" y="1350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="luivyYWbAEqouzFyZwgo-48" value="企业微信后台配置联系我获取secret" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1360" width="105" height="50" as="geometry" />
+          <mxGeometry x="680" y="1025" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="luivyYWbAEqouzFyZwgo-50" target="luivyYWbAEqouzFyZwgo-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="775" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-51" value="企业微信后台更改配置置业顾问信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="780" width="80" height="45" as="geometry" />
+          <mxGeometry x="860" y="795" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="luivyYWbAEqouzFyZwgo-52" target="luivyYWbAEqouzFyZwgo-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="895" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-53" value="更改企业微信通讯录用户表状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="897.5" width="80" height="45" as="geometry" />
+          <mxGeometry x="860" y="912.5" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="1015" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="luivyYWbAEqouzFyZwgo-64" value="更新缓存，传递config给前端时也需要判断status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1005" width="100" height="45" as="geometry" />
+          <mxGeometry x="850" y="1020" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
